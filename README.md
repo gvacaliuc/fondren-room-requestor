@@ -3,11 +3,11 @@
 A Google Cloud Function to list / describe / request rooms at Rice's
 Fondren Libarary.  
 
-# API
+## API
 
 Will add the API links when they're created.  
 
-# TODO:
+## TODO:
 
 * function to generate cookie for rooms.library.rice.edu
 * functionality to list rooms given
