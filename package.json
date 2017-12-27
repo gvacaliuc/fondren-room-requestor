@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/gvacaliuc/fondren-room-requestor#readme",
   "dependencies": {
-    "modofun": "^1.1.0"
+    "modofun": "^1.1.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
   }
 }
